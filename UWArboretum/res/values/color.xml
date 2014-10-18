@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionbar_color">#FF89A02C</color>
+     <color name="green">#FF00502C</color>
+    <color name="light_green">#7289A02C</color>
+    <color name="really_light_green">#FFD1DBD0</color>
+    <color name="light_yellow">#FFFEFFD0</color>
+    <color name="yellow">#FFFFCC00</color>
+    <color name="black_alpha">#FFC4C4BF</color>
+    <color name="dark_blue">#FF0000FF</color>
+     <color name="RowBlue"> #44CCEEFF</color>
+    <color name="RowPink">#44F4E3D7</color>
+    
+</resources>

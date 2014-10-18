@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+  
+   <item
+     android:drawable="@drawable/main_button"
+     android:bottom="4dp" 
+     android:right="4dp"
+     android:top="-4dp"/> 
+        
+   <item android:drawable="@drawable/featuredgarden"
+       android:right="40px"
+       android:left="40px"
+       android:top="10px"
+       android:bottom="20px"
+       />
+       
+   
+
+</layer-list>
