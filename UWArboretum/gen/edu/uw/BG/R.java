@@ -10,27 +10,149 @@ package edu.uw.BG;
 public final class R {
     public static final class attr {
     }
+    public static final class color {
+        public static final int RowBlue=0x7f050008;
+        public static final int RowPink=0x7f050009;
+        public static final int actionbar_color=0x7f050000;
+        public static final int black_alpha=0x7f050006;
+        public static final int dark_blue=0x7f050007;
+        public static final int green=0x7f050001;
+        public static final int light_green=0x7f050002;
+        public static final int light_yellow=0x7f050004;
+        public static final int really_light_green=0x7f050003;
+        public static final int yellow=0x7f050005;
+    }
     public static final class drawable {
-        public static final int ic_launcher=0x7f020000;
+        public static final int arboretum_wetlans=0x7f020000;
+        public static final int brownleaf=0x7f020001;
+        public static final int button=0x7f020002;
+        public static final int calendar=0x7f020003;
+        public static final int compass=0x7f020004;
+        public static final int featuredgarden=0x7f020005;
+        public static final int flag=0x7f020006;
+        public static final int geolocated=0x7f020007;
+        public static final int glass=0x7f020008;
+        public static final int greenbookmarks=0x7f020009;
+        public static final int greenhouse=0x7f02000a;
+        public static final int greenleaf=0x7f02000b;
+        public static final int greenmap=0x7f02000c;
+        public static final int greenpinecone=0x7f02000d;
+        public static final int greentrail=0x7f02000e;
+        public static final int ic_launcher=0x7f02000f;
+        public static final int icons=0x7f020010;
+        public static final int info=0x7f020011;
+        public static final int information=0x7f020012;
+        public static final int landmarkflag=0x7f020013;
+        public static final int lightbookmark=0x7f020014;
+        public static final int lightglass=0x7f020015;
+        public static final int lightmap=0x7f020016;
+        public static final int lighttrail=0x7f020017;
+        public static final int lookout=0x7f020018;
+        public static final int main_button=0x7f020019;
+        public static final int maplewalkjeter=0x7f02001a;
+        public static final int orangehouse=0x7f02001b;
+        public static final int parking=0x7f02001c;
+        public static final int phone=0x7f02001d;
+        public static final int picnictime=0x7f02001e;
+        public static final int plantlookup=0x7f02001f;
+        public static final int plantsymbole=0x7f020020;
+        public static final int purplechevron=0x7f020021;
+        public static final int purplehouse=0x7f020022;
+        public static final int redleaf=0x7f020023;
+        public static final int remove_icon=0x7f020024;
+        public static final int restroom=0x7f020025;
+        public static final int rhody=0x7f020026;
+        public static final int shadow=0x7f020027;
+        public static final int singlebookmark=0x7f020028;
+        public static final int singlebookmarkunselected=0x7f020029;
+        public static final int spring=0x7f02002a;
+        public static final int sun=0x7f02002b;
+        public static final int tanmap=0x7f02002c;
+        public static final int trail=0x7f02002d;
+        public static final int trails=0x7f02002e;
+        public static final int v4=0x7f02002f;
+        public static final int water=0x7f020030;
+        public static final int winter=0x7f020031;
+        public static final int yellow_button=0x7f020032;
+        public static final int yellowpinecone=0x7f020033;
+        public static final int youarehere=0x7f020034;
+        public static final int youarehereunselected=0x7f020035;
     }
     public static final class id {
-        public static final int family=0x7f070003;
-        public static final int identifyCallout=0x7f070000;
-        public static final int map=0x7f070004;
-        public static final int plantname=0x7f070002;
-        public static final int search=0x7f070005;
-        public static final int title=0x7f070001;
+        public static final int accession=0x7f090009;
+        public static final int addBookmarks=0x7f09001d;
+        public static final int add_bookmark_new=0x7f090005;
+        public static final int arboretum_events_button=0x7f09000c;
+        public static final int bookmark_list=0x7f090004;
+        public static final int bookmark_pins_button=0x7f090003;
+        public static final int bookmark_plants_button=0x7f090001;
+        public static final int bookmark_trails_button=0x7f090002;
+        public static final int bookmarks=0x7f090026;
+        public static final int close_callout=0x7f09001a;
+        public static final int common_name=0x7f090016;
+        public static final int family=0x7f090012;
+        public static final int family_common=0x7f090013;
+        public static final int featured_garden_button=0x7f09000a;
+        public static final int fragmentcontainer=0x7f090000;
+        public static final int genus=0x7f090014;
+        public static final int home=0x7f090022;
+        public static final int identifyCallout=0x7f09000e;
+        public static final int map=0x7f09001b;
+        public static final int map_grid=0x7f090018;
+        public static final int maps=0x7f090025;
+        public static final int nearbyButton=0x7f090021;
+        public static final int numberofplants=0x7f09001e;
+        public static final int park_history_button=0x7f09000d;
+        public static final int plant_list=0x7f09001f;
+        public static final int plant_name=0x7f090006;
+        public static final int plantname=0x7f090010;
+        public static final int plantonMap=0x7f09001c;
+        public static final int remove_bookmark=0x7f090008;
+        public static final int report=0x7f090019;
+        public static final int scientific_name=0x7f090007;
+        public static final int scientificn=0x7f090011;
+        public static final int search=0x7f090024;
+        public static final int searchBox=0x7f090020;
+        public static final int source=0x7f090017;
+        public static final int specific_epi=0x7f090015;
+        public static final int title=0x7f09000f;
+        public static final int trails=0x7f090023;
+        public static final int visitor_info_button=0x7f09000b;
     }
     public static final class layout {
-        public static final int identify_callout_content=0x7f030000;
-        public static final int main=0x7f030001;
+        public static final int activity_first_=0x7f030000;
+        public static final int bookmark_list=0x7f030001;
+        public static final int bookmark_list_element=0x7f030002;
+        public static final int first_fragment_layout=0x7f030003;
+        public static final int identify_callout_content=0x7f030004;
+        public static final int main=0x7f030005;
+        public static final int plant_full_layout=0x7f030006;
+        public static final int plant_list_element=0x7f030007;
+        public static final int plantlist_layout=0x7f030008;
+        public static final int plantlookup_layout=0x7f030009;
     }
     public static final class menu {
-        public static final int menu=0x7f060000;
+        public static final int menu=0x7f080000;
+        public static final int second_menue=0x7f080001;
     }
     public static final class string {
-        public static final int app_name=0x7f050001;
-        public static final int hello=0x7f050000;
+        public static final int Dialog_text=0x7f060006;
+        public static final int app_name=0x7f060001;
+        public static final int hello=0x7f060000;
+        public static final int hello_world=0x7f060003;
+        public static final int mapUrl=0x7f060004;
+        public static final int plantlookupst=0x7f060007;
+        public static final int title_activity_first_=0x7f060002;
+        public static final int title_activity_second_=0x7f060005;
+    }
+    public static final class style {
+        /**  the theme applied to the application or activity 
+         */
+        public static final int CustomActionBarTheme=0x7f070000;
+        /**  ActionBar styles 
+         */
+        public static final int MyActionBar=0x7f070001;
+        public static final int dialoge_style=0x7f070002;
     }
     public static final class xml {
         public static final int identify_calloutstyle=0x7f040000;

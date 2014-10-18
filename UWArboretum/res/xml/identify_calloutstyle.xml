@@ -4,11 +4,12 @@
     <calloutViewStyle
         style="app:@style/darkgray_layout"
         anchor="9dip"
-        backgroundColor="#FF0000FF"
+        backgroundColor="#FF00FFFF"
         cornerCurve="15dip"
         flat="true"
         frameColor="#FFC7C7C7"
         titleTextColor="#000000"
-        maxWidth="400dip" />
+        maxWidth="400dip" 
+        />
 
 </resources>
